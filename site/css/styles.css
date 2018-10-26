@@ -1,0 +1,16 @@
+body{
+	margin: 50px;
+	background-color: #33FF7A;
+}
+.world h2{
+	font-family: Arial;
+	text-transform: uppercase;
+	color: red;
+	background-color: white;
+
+}
+.Color {
+	font-family: Arial;
+	text-transform: uppercase;
+	color: red;
+}
