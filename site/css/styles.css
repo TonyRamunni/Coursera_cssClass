@@ -14,3 +14,8 @@ body{
 	text-transform: uppercase;
 	color: red;
 }
+.Color2{
+	font-family: Arial;
+	text-transform: capitalize;
+	color: blue;
+}
