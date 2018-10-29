@@ -2,12 +2,32 @@ body{
 	margin: 50px;
 	background-color: #33FF7A;
 }
-.world h2{
+
+/*body{
+	margin: 50px;
+	background-color: #33FFFF;
+}*/
+
+
+h1{
+	color: white;
+	background-color:#B833FF;
+ 
+}
+
+h2 a{
 	font-family: Arial;
 	text-transform: uppercase;
 	color: red;
 	background-color: white;
+    text-decoration: none;
+}
 
+.world h2 a:hover{
+	color:#B833FF;
+	
+
+	
 }
 .Color {
 	font-family: Arial;
@@ -16,6 +36,17 @@ body{
 }
 .Color2{
 	font-family: Arial;
-	text-transform: capitalize;
-	color: blue;
+	color: white;
+	background-color: #B833FF;
+	padding: 20px;
+	text-align: justify;
+	line-height: 200%;
+}
+.color3 p, span, a{
+	color: red;
+	text-decoration: none;
+	background-color: yellow;
+	font-variant: small-caps;
+	font-family: Arial;
+	font-weight: bolder; 
 }
